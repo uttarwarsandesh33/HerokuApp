@@ -12,5 +12,8 @@
   "license": "ISC",
   "engines": {
     "node": "8.x"
+  },
+  "dependencies": {
+    "loadsh": "0.0.4"
   }
 }
